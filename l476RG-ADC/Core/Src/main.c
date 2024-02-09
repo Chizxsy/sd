@@ -200,7 +200,7 @@ static void MX_ADC1_Init(void)
 
   /* USER CODE BEGIN ADC1_Init 1 */
 /**/
-  /* USER CODE END ADC1_Init 1 */
+  /* USER CsODE END ADC1_Init 1 */
 
   /** Common config
   */
