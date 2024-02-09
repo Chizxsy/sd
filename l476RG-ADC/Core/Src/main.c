@@ -199,7 +199,7 @@ static void MX_ADC1_Init(void)
   ADC_ChannelConfTypeDef sConfig = {0};
 
   /* USER CODE BEGIN ADC1_Init 1 */
-/*tst*/
+/**/
   /* USER CODE END ADC1_Init 1 */
 
   /** Common config
